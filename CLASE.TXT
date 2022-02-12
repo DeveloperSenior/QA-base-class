@@ -1,0 +1,39 @@
+TIPOS DE PRUEBAS 
+
+DESARROLLO : 
+             UNIT (
+                    METRICAS COVERAGE - % DE COBERTURA
+                    METODOLOGIA DE PRUEBAS TDD (HACER PRUEBAS ANTES DE DESARROLLAR) R-G-R,
+                    PRUEBAS RELACIONAS CON UNA UNIDAD DE FUNCIONALIDAD
+                    (metodo o funcion)
+                  )
+
+             INTEGRATION
+             UI O E2E
+
+NO FUNCIONALES:
+              RENDIMIENTO: ( operatividad del sistema, carga, CPU uso de recursos, PERFORMANCE .
+                              INGENIROS DEL CAOS
+                           )
+              USABILIDAD: ( SISTEMAS INTUITIVOS )
+              ACCESIBILIDAD: ( MULTIPLATAFORMA, 
+                              LLEGAR A % ALTO DE POBLACION,
+                              VISION,
+                              AUDITIVO
+                              )
+              SEGURIDAD: PENETRACION DIRIGIDAS A RED,
+                         DEPENDENCIAS, INJECCION
+
+PROPOSITO O FUNCIONALES:
+                         HUMO: (
+                                 FUNCIONALIDAD BASICA
+                              )
+                         EXPLORATIORIAS: ( BUSCAR NUEVOS FALLOS )
+                         REGESION: ( RECERTIFICAR LO PROBADO )
+
+INTEGRACION, INTEGRALES
+
+CI: INTEGRACION CONTINUA: ( GARANTIA DE LO CERTIFICADO )
+CD: DESPLEIGUE CONTINUO: ( PIPELINE AUTOMATIZACION )
+                        
+
