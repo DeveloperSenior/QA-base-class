@@ -1,0 +1,15 @@
+NOMBRE: HU-001-LOGUIN
+COMO USUARIO: ADMINISTRADOR/OPERATIVO
+REQUIERO: UN MODULO DONDE LOS DIFERENTES USUARIOS DE LA COMPAÑIA PUEDAN ACCEDER AL SISTEMA 
+          CON SU USUARIO Y CLAVE DE RED ASIGNADO EN LA COMPAÑIA
+PARA: BRINDAR SEGURIDAD Y AUTENTICIDAD EN NUESTROS SISTEMA
+CRITERIOS DE ACEPTACION:
+                        1. SE REQUIERE UNA PAGINA CON UN FORMULARIO DE LA SIGUIENTE MANERA
+                          a. campo de texo USUARIO maximo 10 digitos alfanumericos
+                          b. campo de texto CLAVE maximo 15 digitos alfanumericos
+                          c. link recuperar clave / cambiar clave
+                          d. link terminos y condiciones
+                          e. check recordar usuarios, este check debe crear una cookie que permita recordar el usuario logueado.
+                          d. boton INGRESAR que permita validar en el directorio activo la informacion ingresada del usuario para 
+                             su autorizacion y autenticacion.
+RESULTADO: TENER ACCESO A TODAS LAS OPCIONES DEL APLICATIVO QUE ME AYUDEN A REALIZAR MIS ACTIVIDADES DIARIAS
