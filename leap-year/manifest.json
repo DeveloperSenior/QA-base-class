@@ -1,0 +1,36 @@
+{
+  "image_name": "cyberdojofoundation/java_junit:d343624",
+  "display_name": "Java 17, JUnit",
+  "filename_extension": [
+    ".java"
+  ],
+  "max_seconds": 10,
+  "tab_size": 4,
+  "progress_regexs": [
+    "Failures (\\d)\\:",
+    "^\\[\\s+(\\d+) tests successful\\s+\\]"
+  ],
+  "exercise": "Leap Years",
+  "theme": "light",
+  "colour": "on",
+  "predict": "off",
+  "revert_red": "off",
+  "revert_amber": "off",
+  "revert_green": "off",
+  "version": 2,
+  "created": [
+    2022,
+    2,
+    26,
+    15,
+    37,
+    47,
+    350958
+  ],
+  "highlight_filenames": [
+
+  ],
+  "group_id": "7lFBZA",
+  "group_index": 19,
+  "id": "RRgTNg"
+}
