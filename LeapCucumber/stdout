@@ -1,0 +1,21 @@
+JUnit version 4.13
+.
+Scenario Outline: should Leap Year Divisible Four # Leap.feature:11
+  Given a year 1996                               # LeapStepDef.a_year(java.lang.Integer)
+  When Divisible 4                                # LeapStepDef.divisible(java.lang.Integer)
+  Then return is a leap year "true"               # LeapStepDef.return_is_a_leap_year(java.lang.String)
+.
+Scenario Outline: should Leap Year Divisible One Hundred # Leap.feature:19
+  Given a year 2001                                      # LeapStepDef.a_year(java.lang.Integer)
+  When Divisible 100                                     # LeapStepDef.divisible(java.lang.Integer)
+  Then return is a leap year "false"                     # LeapStepDef.return_is_a_leap_year(java.lang.String)
+.
+Scenario Outline: should Leap Year Divisible Four Hundred # Leap.feature:27
+  Given a year 2000                                       # LeapStepDef.a_year(java.lang.Integer)
+  When Divisible 400                                      # LeapStepDef.divisible(java.lang.Integer)
+  Then return is a leap year "true"                       # LeapStepDef.return_is_a_leap_year(java.lang.String)
+
+Time: 0.331
+
+OK (3 tests)
+
